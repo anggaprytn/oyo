@@ -1,3 +1,5 @@
 # oyo
-git clone github.com/petrikkkk/oyo
-php oyo.php
+Aku bisa membuatmu jatuh cinta kepadaku
+Meski kau tak cinta kepadaku
+Beri sedikit waktu
+Biar cinta datang karena telah terbiasa
