@@ -15,6 +15,3 @@ Indonesia Phone Number
 United States Phone Number
 - php us.php
 - 501xxxxxxx
-
-## Thanks To
-SGB Team Reborn
